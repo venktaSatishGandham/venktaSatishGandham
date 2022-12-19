@@ -1,4 +1,4 @@
-![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
+
 <h1 align="center">Hi 👋, I'm Venkata Satish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Thinking" width="400" src="https://ugc.kn3.net/i/origin/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif" />
